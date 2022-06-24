@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @littlephillips
 - 👀 I’m a passionate software developer
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+just wanna make it worth it!
 
 <!---
 littlephillips/littlephillips is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
