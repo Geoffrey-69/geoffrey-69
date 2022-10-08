@@ -4,8 +4,7 @@
 <a href="https://medium.com/@phillipkinuthia72" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
- 
- ##Personal Information
+
 - 👋 Hi, I’m @littlephillips
 
 - 👀 I’m a passionate software developer
