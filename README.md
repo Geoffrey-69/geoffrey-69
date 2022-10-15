@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working with javascript and reactjs!
 
--🌱 Starting on Ruby 
+  -🌱 learning Ruby programing
 
 - ⚡ Fun fact: no animal has a faster metabolism!
 
