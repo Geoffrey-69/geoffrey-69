@@ -9,7 +9,7 @@
 
 - 👀 I’m a passionate software developer
 
-- 🌱 I’m currently working with javascript,reactjs and Ruby!
+- 🌱 I’m currently working with javascript,reactjs, SQL and Ruby!
 
   -🌱 learning Ruby on Rails
 
