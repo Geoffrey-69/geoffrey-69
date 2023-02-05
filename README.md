@@ -9,9 +9,9 @@
 
 - 👀 I’m a passionate software developer
 
-- 🌱 I’m currently working with javascript,reactjs, SQL and Ruby!
+- 🌱 I’m currently working with javascript,reactjs, SQL, Ruby and Ruby on Rails!
 
-  -🌱 learning Ruby on Rails
+  -🌱 learning AngularJs
 
 - ⚡ Fun fact: no animal has a faster metabolism!
 
