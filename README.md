@@ -13,7 +13,7 @@
 
   -🌱 learning CSS
 
-- ⚡ Fun fact: no animal has a faster metabolism!
+- ⚡ Fun fact: the monalisa has no eyebrows
 
 ## Languages and Tools  
 <div align="center">  
