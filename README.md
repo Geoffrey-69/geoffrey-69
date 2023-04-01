@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently working with HTML
 
-  -🌱 learning CSS
+  -🌱 learning C language
 
 - ⚡ Fun fact: the monalisa has no eyebrows
 
